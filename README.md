@@ -1,29 +1,6 @@
-# manageangler202101
+# manageangler  vue2,element-ui
 
-## Project setup
-```
-npm install
-```
+# 后端：https://github.com/lipmtb/anglerBackend
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 查看： http://106.13.225.53:88/
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
